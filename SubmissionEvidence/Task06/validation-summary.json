@@ -1,0 +1,25 @@
+{
+  "sample_count": 59,
+  "normalized_start": 0.1213905,
+  "normalized_end": 1.256007,
+  "all_active": true,
+  "all_framed": true,
+  "speed_values": [
+    "1"
+  ],
+  "root_positions": [
+    "(0.00, 0.00, 0.00)"
+  ],
+  "min_mesh_y": -0.004098734,
+  "max_min_mesh_y": 0.01502771,
+  "modified_assets": [
+    "Assets/Animations/SwingDancing.fbx.meta"
+  ],
+  "bone_distinct_positions": {
+    "hips": 56,
+    "leftHand": 59,
+    "rightHand": 59,
+    "leftFoot": 59,
+    "rightFoot": 59
+  }
+}
